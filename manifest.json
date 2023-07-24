@@ -1,6 +1,7 @@
 {
   "name": "Recipes",
-  "start_url": "/",
+  "short_name": "R",
+  "start_url": "/index.html",
   "lang": "ru",
   "display": "standalone",
  "icons": [
